@@ -1,0 +1,10 @@
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Resources\A.TXT
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Resources\B.TXT
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Book2.exe.config
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Book2.exe
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Book2.pdb
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\obj\Debug\Book2.Properties.Resources.resources
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\obj\Debug\Book2.csproj.GenerateResource.Cache
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\obj\Debug\Book2.exe
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\obj\Debug\Book2.pdb
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\obj\Debug\Book2.csprojResolveAssemblyReference.cache

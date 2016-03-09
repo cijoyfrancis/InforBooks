@@ -1,0 +1,51 @@
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Book2.exe.config
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Book2.exe
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Book2.pdb
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Castle.Core.dll
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Castle.Windsor.dll
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\NFluent.dll
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\nunit.framework.dll
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Castle.Core.xml
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\Castle.Windsor.xml
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\NFluent.xml
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\bin\Debug\nunit.framework.xml
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\obj\Debug\InforBooks.Properties.Resources.resources
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\obj\Debug\InforBooks.csproj.GenerateResource.Cache
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\obj\Debug\Book2.exe
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\obj\Debug\Book2.pdb
+c:\users\cfrancis.ad\documents\visual studio 2013\Projects\Book2\Book2\obj\Debug\InforBooks.csprojResolveAssemblyReference.cache
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\Book2.exe.config
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\Book2.exe
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\Book2.pdb
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\Castle.Core.dll
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\Castle.Windsor.dll
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\NFluent.dll
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\nunit.framework.dll
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\Castle.Core.xml
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\Castle.Windsor.xml
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\NFluent.xml
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\bin\Debug\nunit.framework.xml
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\obj\Debug\InforBooks.csprojResolveAssemblyReference.cache
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\obj\Debug\InforBooks.Properties.Resources.resources
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\obj\Debug\InforBooks.csproj.GenerateResource.Cache
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\obj\Debug\Book2.exe
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\Book2\obj\Debug\Book2.pdb
+E:\CJ\GitHub\InforBooks-temp\Book2\bin\Debug\Book2.exe.config
+E:\CJ\GitHub\InforBooks-temp\Book2\obj\Debug\Book2.exe
+E:\CJ\GitHub\InforBooks-temp\Book2\obj\Debug\Book2.pdb
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\Book2.exe.config
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\obj\Debug\Book2.exe
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\obj\Debug\Book2.pdb
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\Book2.exe
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\Book2.pdb
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\Castle.Core.dll
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\Castle.Windsor.dll
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\NFluent.dll
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\nunit.framework.dll
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\Castle.Core.xml
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\Castle.Windsor.xml
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\NFluent.xml
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\bin\Debug\nunit.framework.xml
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\obj\Debug\InforBooks.csprojResolveAssemblyReference.cache
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\obj\Debug\InforBooks.Properties.Resources.resources
+E:\CJ\GitHub\InforBooks\InforBooks\Book2\obj\Debug\InforBooks.csproj.GenerateResource.Cache

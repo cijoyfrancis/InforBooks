@@ -1,0 +1,48 @@
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\InforBooksUnitTest.dll.config
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\InforBooksUnitTest.dll
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\InforBooksUnitTest.pdb
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\Book2.exe
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\Castle.Core.dll
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\Castle.Windsor.dll
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\NFluent.dll
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\nunit.framework.dll
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\Book2.pdb
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\Castle.Core.xml
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\Castle.Windsor.xml
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\NFluent.xml
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\bin\Debug\nunit.framework.xml
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\obj\Debug\InforBooksUnitTest.csprojResolveAssemblyReference.cache
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\obj\Debug\InforBooksUnitTest.dll
+c:\Users\cfrancis.AD\documents\visual studio 2013\Projects\Book2\InforBooksUnitTest\obj\Debug\InforBooksUnitTest.pdb
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\InforBooksUnitTest.dll.config
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\InforBooksUnitTest.dll
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\InforBooksUnitTest.pdb
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\Book2.exe
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\Castle.Core.dll
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\Castle.Windsor.dll
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\NFluent.dll
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\Book2.pdb
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\Castle.Core.xml
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\Castle.Windsor.xml
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\NFluent.xml
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\obj\Debug\InforBooksUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\obj\Debug\InforBooksUnitTest.dll
+C:\Users\cfrancis.AD\Documents\Visual Studio 2013\Projects\InforBooks\InforBooksUnitTest\obj\Debug\InforBooksUnitTest.pdb
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\InforBooksUnitTest.dll.config
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\InforBooksUnitTest.dll
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\InforBooksUnitTest.pdb
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\Book2.exe
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\Castle.Core.dll
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\Castle.Windsor.dll
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\NFluent.dll
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\nunit.framework.dll
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\Book2.pdb
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\Castle.Core.xml
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\Castle.Windsor.xml
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\NFluent.xml
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\bin\Debug\nunit.framework.xml
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\obj\Debug\InforBooksUnitTest.csprojResolveAssemblyReference.cache
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\obj\Debug\InforBooksUnitTest.dll
+E:\CJ\GitHub\InforBooks\InforBooks\InforBooksUnitTest\obj\Debug\InforBooksUnitTest.pdb
